@@ -1,5 +1,5 @@
 # Code_Clause_Task1
-=======
+
 # Chatbot Implementation with NLTK
 
 This repository contains a simple chatbot implementation using Python and the Natural Language Toolkit (NLTK). The chatbot is designed to engage in conversations with users on various topics and respond to specific queries.
