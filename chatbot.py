@@ -10,7 +10,7 @@ pairs = [
     ['how old are you?', ['I am just a program, so I don\'t have an age.']],
     ['what can you do?', ['I can chat with you, tell jokes, answer questions, and more!']],
     ['do you like cats?', ['I am a program, so I don\'t have feelings like humans do.']],
-    ['who created you?', ['I was created by a team of developers.', 'My creators are amazing programmers.']],
+    ['who created you?', ['I was created by a DANIYAALULLAH KHAN MOHAMMED.', 'My creator is amazing programmer.']],
 ]
 
 pairs.extend([
