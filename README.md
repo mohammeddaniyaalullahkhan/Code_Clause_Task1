@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Code_Clause_Task1
 =======
 # Chatbot Implementation with NLTK
@@ -21,4 +21,3 @@ This repository contains a simple chatbot implementation using Python and the Na
 
    ## Run the chatbot script:
    python chatbot.py
->>>>>>> fc2e03b (Initial commit)
